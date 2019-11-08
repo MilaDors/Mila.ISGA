@@ -1,0 +1,133 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    width: 100vw;
+    height: 100vh;
+}    
+
+body{
+    margin: 50px;
+    height: 667px;
+    width: 375 px;
+    overflow: scroll;
+    border: ipx solid black;
+    background-color: #1A1A1A;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+ background-color: #da2a28;
+ text-transform: uppercase;
+ letter-spacing: 0.4em;
+ text-align: center;
+ text-shadow: 1px 1px 0px white;
+ 
+ }
+ 
+ main{
+     color: white;
+ }
+
+ h1{
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ h2{ 
+     text-align: center;
+     text-shadow: 1px 1px 0px #da2a28;
+ }
+
+ h3{
+     text-shadow: 1px 1px 0px #da2a28;
+     }
+
+h4.locatie{
+    margin-top: 10px;
+
+}
+
+h5{
+    color: white;
+    text-shadow: 1px 1px 0px #da2a28;
+}
+
+h4{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;  
+    color:#da2a28                                                                                                                                                                                                                                                    
+}
+ 
+
+a:hover{
+color: white;
+text-decoration: underline;
+}
+
+a:active{
+    color: #da2a28;
+}
+
+a{
+    text-align: left;
+}
+ .bloemenmarkt{
+     
+     margin: 20px;
+
+ }
+
+.waterlooplein{
+    margin: 20px;
+
+}
+
+.albertcuyp{
+    margin: 20px;
+}
+
+.markten{
+    box-align: left;
+    margin: 20px;
+    padding-bottom: 200px;
+}
+
+.theaters{
+    box-align: center;
+    margin: 20px;
+    padding-top: 20px;
+    padding-left: 20px
+    
+}
+
+.bios{
+    box-align: right;
+    margin: 20px;
+}
+
+.link{
+     margin: 10px;
+     background-color: #da2a28;
+    }
+
+.links{
+    margin: 10px;
+    background-color: #da2a28;
+}
+
+    a{
+        color: white  
+    }
+
+
+
+ 
+
+
+     
+ 
+
+
+ 
