@@ -133,13 +133,13 @@ img.align-right{
 }
 
 img.medium{
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
 }
 
 img.large{
-    width: 400px;
-    height: 180px;
+    width: 200px;
+    height: 150px;
 }
 
 img.small{
