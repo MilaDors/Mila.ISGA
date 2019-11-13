@@ -84,46 +84,90 @@ a{
 
 }
 
-.albertcuyp{
+.albertcuyp{   
     margin: 20px;
 }
 
 .markten{
-    box-align: left;
+    float: left;
     margin: 20px;
-    padding-bottom: 200px;
+    padding-right: 20px;
 }
 
 .theaters{
-    box-align: center;
+    float: right; 
     margin: 20px;
     padding-top: 20px;
-    padding-left: 20px
-    
+    padding-right: 10px;
+    padding-left: 20px;
 }
 
 .bios{
-    box-align: right;
+    float: left;   
     margin: 20px;
+    padding-top: 20px;
 }
 
 .link{
-     margin: 10px;
-     background-color: #da2a28;
-    }
-
-.links{
-    margin: 10px;
-    background-color: #da2a28;
+     margin: 10px;      
 }
 
-    a{
-        color: white  
-    }
+.links{
+    margin: 10px;   
+}
 
+a{
+    color: white;
+}
 
+img.align-left{
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
 
- 
+img.align-right{
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+img.medium{
+    width: 400px;
+    height: 400px;
+}
+
+img.large{
+    width: 400px;
+    height: 180px;
+}
+
+img.small{
+    width: 200px;
+    height: 200px;
+}
+
+figure{
+    display: block;
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin: 0px;
+}
+
+figure img{
+    width: 400px;
+    height: 400px;
+    border: ipx solid black;
+}
+
+ textarea{
+     margin-top: 10px;
+ }
+
+ .comment{
+     color: #da2a28;
+ }
 
 
      
